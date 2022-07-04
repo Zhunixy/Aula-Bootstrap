@@ -1,0 +1,24 @@
+
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.contato{
+    background: rgb(150, 150, 150);
+    color: white;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.ofertas{
+    background: rgb(39, 39, 39);
+    color: whitesmoke;
+}
+
+.bg-footer{
+    background: rgb(0, 0, 0);
+    color: white;
+}
